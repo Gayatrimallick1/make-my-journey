@@ -1,0 +1,50 @@
+.card-img{
+    text-align: center;
+
+    
+}
+.card-title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 5vw;
+  width: 100%;
+
+  color: white;
+
+}
+.para{
+  text-align: center;
+  font-weight: lighter;
+  
+}
+.dark{
+  background-color: black;
+  
+  
+}
+.card-text{
+  font-weight: 500;
+  font-size: 1.5vw;
+}
+.image{
+  display: flex;
+}
+.dk{
+  
+  padding-bottom: 20px;
+  text-align: center;
+}
+.manjit{
+  text-align: center;
+
+}
+.ritik{
+  text-align: center;
+}
+.aryan{
+  text-align:center ;
+}
+.guide{
+  text-align: center;
+  font-size: bold;
+}

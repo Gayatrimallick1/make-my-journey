@@ -1,0 +1,27 @@
+let product=[
+    {
+        "name":"dk",
+        "price":10,
+        "rating":"*",
+        "img":"./img/dk.jpeg"
+    },
+    {
+        "name":"manjit",
+        "price":10,
+        "rating":"*",
+        "img":"./images/manjit.jpeg"
+    },
+    {
+        "name":"ritik",
+        "price":10,
+        "rating":"*",
+        "img":"./images/ritik.jpeg"
+    },
+    {
+        "name":"british",
+        "price":10,
+        "rating":"*",
+        "img":"./images/british.jpg"
+    }
+    
+]

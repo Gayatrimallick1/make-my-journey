@@ -1,0 +1,11 @@
+.card{
+    border: 1px solid black;
+    width: 18rem;
+    padding: 20px;
+    margin: 10px;
+}
+.card img{
+    margin-left: 15px;
+    margin: 50px;
+    border: 1px solid black;
+}

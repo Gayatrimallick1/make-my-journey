@@ -1,0 +1,54 @@
+#navbarSupportedContent{
+    margin-left: 600px;
+
+}
+
+
+.container-fluid{
+    background-attachment: aqua;
+    height: 90px;
+}
+
+.navbar-brand{
+    color: black;
+    font-style: italic;
+    font-size:larger;
+}
+.navbar:hover{
+  text-decoration: underline;
+}
+
+.card{
+    text-align: center;
+    flex-wrap: wrap;
+}
+.place
+{
+    color: brown;
+    font-style: italic;
+
+}
+.line{
+    flex-flow: column;
+    background-color: yellow;
+}
+.nav{
+    color: yello;
+}
+.button{
+    text-align: center;
+    color: beige;
+}
+.bu{
+    background-color: blue;
+}
+.low{
+    text-align: center;
+}
+.new{
+    text-align: center;
+}
+
+.headre{
+    background-color: aqua;
+}

@@ -1,0 +1,23 @@
+.heading{
+  text-align: center;
+}
+.card-img-top{
+   
+    border-radius: 30px;
+}
+.ser{
+  text-align: center;
+
+}
+.card{
+  border: none;
+}
+.box{
+  text-align: center;
+  display: flex;
+}
+.card-body{
+  background-color:white ;
+  border: none;
+ box-shadow: 10px; 
+}
